@@ -5,3 +5,5 @@ Git tracks changes of files.
 My stupid boss still use SVN.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+Use the no-ff to do the merge.
+
